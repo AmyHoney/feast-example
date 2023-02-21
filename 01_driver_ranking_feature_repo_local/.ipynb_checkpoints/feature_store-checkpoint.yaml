@@ -1,7 +1,0 @@
-project: feast_demo_local
-provider: local
-registry: infra/registry.db # TODO: Replace with your bucket
-online_store: null
-offline_store:
-  type: file
-entity_key_serialization_version: 2
