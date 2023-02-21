@@ -1,0 +1,30 @@
+
+R
+2
+driver	driver id"	driver_idJfeast_demo_local
+Š¬ÑŸÀÅ‡æŠ¬ÑŸÀÅ‡æ
+G
+'
+__dummy"
+__dummy_idJfeast_demo_local
+Š¬ÑŸ°åŒæŠ¬ÑŸÈÑæ1"$e4e86ad2-a003-4835-8855-91855f27c039*Š¬ÑŸ°Ûúú2•
+ô
+driver_hourly_statsfeast_demo_localdriver"
+	conv_rate"
+acc_rate*
+
+productionTrue2€àï— :Öevent_timestamp*createdZinfra/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_stats_sourceº=A table describing the stats of a driver based on hourly logsÊtest2@gmail.com@RHourly featuresZtest2@gmail.comb
+	driver_id
+Š¬ÑŸˆíòåŠ¬ÑŸˆíòå:s
+S
+model_v1feast_demo_local$
+driver_hourly_stats
+	conv_rate2test3@gmail.com
+Š¬ÑŸøµ”æŠ¬ÑŸøµ”æ:
+a
+model_v2feast_demo_local2
+driver_hourly_stats
+	conv_rate
+acc_rate2test3@gmail.com
+Š¬ÑŸèÏ›æŠ¬ÑŸèÏ›æbéevent_timestamp*createdZinfra/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_stats_sourceªfeast_demo_localº=A table describing the stats of a driver based on hourly logsÊtest2@gmail.comz8
+feast_demo_local$c05503c1-c029-4fb6-988a-b097865f4761
